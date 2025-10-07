@@ -49,7 +49,6 @@ This project includes an Admin Panel where events can be added, updated, or dele
 
 
 ## Now open https://cecevents.netlify.app/
- 🎉
 
  ## Future Improvements
 
