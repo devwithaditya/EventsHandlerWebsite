@@ -12,7 +12,7 @@ A modern web application built with **React** and **Tailwind CSS** to manage and
 ## Technologies Used
 - **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS
 - **Styling:** Tailwind CSS
-- **Deployment:** Netlify (Live Demo)
+- **Deployment:** Netlify (Here we go: https://cecevents.netlify.app/)
 
 ##  Installation
 
