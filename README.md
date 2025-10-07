@@ -1,4 +1,4 @@
-🎉 CEC Events Website
+## 🎉 CEC Events Website
 
 A web application built with React + Vite + TypeScript + TailwindCSS + shadcn/ui to showcase and manage college events.
 
@@ -34,7 +34,7 @@ This project includes an Admin Panel where events can be added, updated, or dele
 - Animations: Framer Motion
 
  ## Project Structure
- 
+
 ├── public/              # Static assets
 ├── src/                 # Main source code
 │   ├── components/      # Reusable UI components
