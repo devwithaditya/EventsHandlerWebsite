@@ -1,21 +1,69 @@
-# CEC Events
+🎉 CEC Events Website
 
-A modern web application built with **React** and **Tailwind CSS** to manage and showcase events efficiently. The platform provides a user-friendly interface for creating, viewing, and tracking events, optimized for both desktop and mobile devices.
+A web application built with React + Vite + TypeScript + TailwindCSS + shadcn/ui to showcase and manage college events.
+
+This project includes an Admin Panel where events can be added, updated, or deleted.
 
 ## Features
-- Create, edit, and manage events easily
-- View a list of upcoming events with detailed information
-- Responsive design powered by **Tailwind CSS**
-- Interactive and dynamic UI with **React**
-- Lightweight and fast performance
 
-## Technologies Used
-- **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS
-- **Styling:** Tailwind CSS
-- **Deployment:** Netlify (Here we go: https://cecevents.netlify.app/)
+- Event Management – Add, update, and delete events
 
-##  Installation
+- Modern UI – Built with shadcn/ui
+ and TailwindCSS
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/devwithaditya/EventsHandlerWebsite.git
+- Admin Panel – Secure login for event admins
+
+- Fast & Responsive – Powered by Vite + React
+
+- Dark Mode Support
+
+- Mobile-Friendly Design
+
+## Tech Stack
+
+- Frontend: React, TypeScript, Vite
+
+- UI Components: shadcn/ui, Radix UI, TailwindCSS
+
+- State Management: Zustand
+
+- Form Handling: React Hook Form + Zod
+
+- Icons: Lucide React
+
+- Animations: Framer Motion
+
+ Project Structure
+├── public/              # Static assets
+├── src/                 # Main source code
+│   ├── components/      # Reusable UI components
+│   ├── pages/           # Page-level components
+│   ├── hooks/           # Custom React hooks
+│   ├── store/           # Zustand state management
+│   └── App.tsx          # Main App component
+├── package.json         # Dependencies and scripts
+├── tailwind.config.js   # TailwindCSS config
+├── vite.config.ts       # Vite config
+└── tsconfig.json        # TypeScript config
+
+
+## Now open https://cecevents.netlify.app/
+ 🎉
+
+ ## Future Improvements
+
+ - Connect to a real backend (Node.js + MongoDB / Firebase) for global updates
+
+ - Add authentication (JWT / Firebase Auth) for secure admin login
+
+ - Add analytics dashboard for event statistics
+
+ - Add email notifications for registered participants
+
+## Screenshots
+
+![alt text](image.png)
+
+🤝 Contributing
+
+Contributions are welcome! Fork the repo and create a pull request 
